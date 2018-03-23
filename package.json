@@ -1,0 +1,10 @@
+{
+  "name": "travis-related-checks",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "testcafe chrome test.js -V videos"
+  },
+  "dependencies": {
+    "testcafe": "https://goo.gl/RzKYM2"
+  }
+}
